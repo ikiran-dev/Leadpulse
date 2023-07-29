@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Leadpulse/static/css/main.1bd742bf.css",
+    "main.js": "/Leadpulse/static/js/main.01566c2c.js",
+    "static/media/laptop.jpg": "/Leadpulse/static/media/laptop.45ddf500e572fb2f1d35.jpg",
+    "index.html": "/Leadpulse/index.html",
+    "main.1bd742bf.css.map": "/Leadpulse/static/css/main.1bd742bf.css.map",
+    "main.01566c2c.js.map": "/Leadpulse/static/js/main.01566c2c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bd742bf.css",
+    "static/js/main.01566c2c.js"
+  ]
+}
