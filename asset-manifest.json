@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Leadpulse/static/css/main.1bd742bf.css",
-    "main.js": "/Leadpulse/static/js/main.01566c2c.js",
+    "main.css": "/Leadpulse/static/css/main.c9020674.css",
+    "main.js": "/Leadpulse/static/js/main.b29452ae.js",
     "static/media/laptop.jpg": "/Leadpulse/static/media/laptop.45ddf500e572fb2f1d35.jpg",
     "index.html": "/Leadpulse/index.html",
-    "main.1bd742bf.css.map": "/Leadpulse/static/css/main.1bd742bf.css.map",
-    "main.01566c2c.js.map": "/Leadpulse/static/js/main.01566c2c.js.map"
+    "main.c9020674.css.map": "/Leadpulse/static/css/main.c9020674.css.map",
+    "main.b29452ae.js.map": "/Leadpulse/static/js/main.b29452ae.js.map"
   },
   "entrypoints": [
-    "static/css/main.1bd742bf.css",
-    "static/js/main.01566c2c.js"
+    "static/css/main.c9020674.css",
+    "static/js/main.b29452ae.js"
   ]
 }
