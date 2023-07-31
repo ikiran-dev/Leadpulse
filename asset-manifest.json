@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Leadpulse/static/css/main.c9020674.css",
-    "main.js": "/Leadpulse/static/js/main.b29452ae.js",
+    "main.js": "/Leadpulse/static/js/main.274c919e.js",
     "static/media/laptop.jpg": "/Leadpulse/static/media/laptop.45ddf500e572fb2f1d35.jpg",
     "index.html": "/Leadpulse/index.html",
     "main.c9020674.css.map": "/Leadpulse/static/css/main.c9020674.css.map",
-    "main.b29452ae.js.map": "/Leadpulse/static/js/main.b29452ae.js.map"
+    "main.274c919e.js.map": "/Leadpulse/static/js/main.274c919e.js.map"
   },
   "entrypoints": [
     "static/css/main.c9020674.css",
-    "static/js/main.b29452ae.js"
+    "static/js/main.274c919e.js"
   ]
 }
