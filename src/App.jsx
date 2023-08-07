@@ -3,6 +3,8 @@ import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import Analytics from "./components/Analytics";
 import data from "./assets/data";
+import Newsletter from "./components/Newsletter";
+import Cards from "./components/Cards";
 
 function App() {
   return (
@@ -21,6 +23,8 @@ function App() {
         analytics3={data.analytics3}
         analyticsimg={data.analyticsimg}
       />
+      <Newsletter />
+      <Cards />
     </div>
   );
 }
