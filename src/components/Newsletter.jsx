@@ -6,9 +6,10 @@ function Newsletter() {
       <div className="max-w-[1240px] mx-auto grid lg:grid-cols-3">
         <div className="lg:col-span-2 my-6">
           <h1 className="md:text-4xl sm:text-3xl text-2xl font-bold py-2">
-            Want tips & tricks to optimize your flow?
+            Lets find your next <span className="text-[#00df9a]">hire</span>{" "}
+            together
           </h1>
-          <p>Sign uo to our newsletter and stay up to date.</p>
+          <p>Sign up to schedule a consultation.</p>
         </div>
         <div className="my-4">
           <div className="flex flex-col sm:flex-row items-center justify-between w-full">

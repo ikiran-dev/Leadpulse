@@ -1,13 +1,18 @@
 {
-  "companyName": "Leadpulse",
+  "companyName": "HueSoul",
   "navigation": ["Home", "Company", "Resources", "About", "Contact"],
-  "hero1": "GROWING WITH DATA ANALYTICS",
-  "hero2": "Grow with data.",
-  "hero3": "Monitor your data analytics to increase revenue for BTB, BTC, & SASS platform.",
-  "herotyped": "Fast, flexible financing for",
-  "herotyping": ["BTB", "BTC", "SASS"],
-  "analytics1": "Manage Data Analytics Centrally",
-  "analytics2": " Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitaepariatur illo a dolorum dolore necessitatibus ipsam asperiores ignissimos quod id sed incidunt corrupti officia voluptate, nemo laudantium maxime sit. Eligendi.",
-  "analyticsimg": "https://raw.githubusercontent.com/ikiran-dev/Leadpulse/master/src/assets/laptop.jpg",
-  "analytics3": "DATA ANALYTICS DASHBOARD"
+  "hero1": "Your Facility Management Partner",
+  "hero2": "Lets Find Out How We Can Help You",
+  "hero3": "Elevate Experiences with Huesoul: Crafting service excellence through our unwavering commitment and Quality Management System.",
+  "herotyped": "Service Offerings",
+  "herotyping": [
+    "Facility Management",
+    "Contract Staffing",
+    "Manpower Consultancy",
+    ""
+  ],
+  "analytics1": "Our Goal",
+  "analytics2": " To carry on the business portfolio includes facility Management, Contract Staffing, Manpower Consultancy, Statutory Compliance and registration statutory Obligations. We have established and apply a Quality Management System for providing comprehensive Facility Management Services.",
+  "analyticsimg": "https://zurichengineering.org/wp-content/uploads/2023/02/integrated-facility-management.png",
+  "analytics3": ""
 }
